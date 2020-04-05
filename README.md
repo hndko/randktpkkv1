@@ -1,9 +1,9 @@
 # Cara Install
-$ apt update && apt upgrade
-$ apt install php php-cli php-curl php-dev curl git
-$ git clone https://github.com/kyo1337/randktpkkv1
-$ cd randktpkkv1
-$ php ktpkk.php
+$ apt update && apt upgrade<br>
+$ apt install php php-cli php-curl php-dev curl git<br>
+$ git clone https://github.com/kyo1337/randktpkkv1<br>
+$ cd randktpkkv1<br>
+$ php ktpkk.php<br>
 
 # Note
 - Email : uklteam22@gmail.com
