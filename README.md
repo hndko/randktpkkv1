@@ -1,3 +1,6 @@
+# Penjelasan
+Random KTP & KK adalah sebuah tools generate yang berfungsi membuatkan nomor ktp & kk fresh untuk verifikasi nomor telpon baru atau keperluan lainnya.
+
 # Cara Install
 $ apt update && apt upgrade<br>
 $ apt install php php-cli php-curl php-dev curl git<br>
