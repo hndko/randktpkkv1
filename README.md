@@ -21,7 +21,7 @@
 1.  **Clone Repository**
 
     ```bash
-    git clone https://github.com/kyo1337/randktpkkv1
+    git clone https://github.com/hndko/randktpkkv1
     cd randktpkkv1
     ```
 
@@ -50,4 +50,4 @@ Data yang dihasilkan memiliki pola:
 
 ---
 
-_Created with ❤️ for Educational Purposes_
+_Created by Z3R0-K x Mari Partner for Educational Purposes_
